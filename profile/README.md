@@ -6,6 +6,9 @@ In this organization you will find the repositories with the source code of the 
 
 ## Repositories
 
-| Repository | Description                                |
-| ---------- | ------------------------------------------ |
-| [docs]()   | Diagrams and documentation of the project. |
+| Repository                                                               | Description                                                                                        |
+| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| [docs](https://github.com/UPB-Code-Labs/docs)                            | Diagrams and documentation of the project.                                                         |
+| [main-api](https://github.com/UPB-Code-Labs/main-api)                    | Source code of the main API responsible for most of the CRUD operations.                           |
+| [test-microservice](https://github.com/UPB-Code-Labs/tests-microservice) | Source code of the microservice responsible for execute the teacher's tests on the students' code. |
+| [react-client](https://github.com/UPB-Code-Labs/react-client)            | Source code of the web client.                                                                     |
