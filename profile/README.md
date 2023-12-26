@@ -6,12 +6,13 @@ In this organization you will find the repositories with the source code of the 
 
 ## Repositories
 
-| Repository                                                               | Description                                                                                        |
-| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| [docs](https://github.com/UPB-Code-Labs/docs)                            | Diagrams and documentation of the project.                                                         |
-| [main-api](https://github.com/UPB-Code-Labs/main-api)                    | Source code of the main API responsible for most of the CRUD operations.                           |
-| [test-microservice](https://github.com/UPB-Code-Labs/tests-microservice) | Source code of the microservice responsible for execute the teacher's tests on the students' code. |
-| [react-client](https://github.com/UPB-Code-Labs/react-client)            | Source code of the web client.                                                                     |
+| Repository                                                                              | Description                                                                                                          |
+| --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| [docs](https://github.com/UPB-Code-Labs/docs)                                           | Diagrams and documentation of the project.                                                                           |
+| [gateway](https://github.com/UPB-Code-Labs/main-api)                                    | Source code of the main API (gateway) responsible for most of the CRUD operations and communicate the microservices. |
+| [static-files-microservice](https://github.com/upb-code-labs/static-files-microservice) | Source code of the microservice responsible of saving the `zip` archives with the students' and teachers' code.      |
+| [test-microservice](https://github.com/UPB-Code-Labs/tests-microservice)                | Source code of the microservice responsible for execute the teacher's tests on the students' code.                   |
+| [react-client](https://github.com/UPB-Code-Labs/react-client)                           | Source code of the web client.                                                                                       |
 
 ## Contributing
 
